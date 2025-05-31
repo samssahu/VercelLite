@@ -1,0 +1,21 @@
+{
+  "name": "vercel-reques-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.2",
+    "aws-sdk": "^2.1692.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "redis": "^5.1.1",
+    "simple-git": "^3.27.0",
+    "typescript": "^5.8.3"
+  }
+}
